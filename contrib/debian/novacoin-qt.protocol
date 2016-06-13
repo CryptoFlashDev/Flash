@@ -1,0 +1,11 @@
+[Protocol]
+exec=Flash-qt '%u'
+protocol=Flash
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,9 @@
+Building Flash
+
+See doc/readme-qt.rst for instructions on building Flash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Flash.
+
+See doc/build-*.txt for instructions on building Flashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Flash.
